@@ -1,8 +1,3 @@
-"""
-Rimon Ahmed 
-Gift store
-Open source
-"""
 import random,os
 import time
 import requests,bs4,json,os,sys,random,datetime,time,re
